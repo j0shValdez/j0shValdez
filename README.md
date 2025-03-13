@@ -32,7 +32,6 @@ From Helicopter Rescue Swimmer to Cybersecurity Analyst. As a Navy veteran, I am
 ## 📊 SIEM and Log Analysis
 
 - **[Microsoft Sentinel Setup and Device Log Ingestion](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Honeypot and Canary Token Monitoring with Canary](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 <hr/>
 
