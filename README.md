@@ -15,18 +15,19 @@ From Helicopter Rescue Swimmer to Cybersecurity Analyst. As a Navy veteran, I am
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Nessus Vulnerability Scans](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Kali Linux Setup & Basic Nmap Scans](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Phishing Email Analysis](https://github.com/j0shValdez/Phishing-Email-Analysis)**
+- **[Threat Intelligence & Threat Hunting](https://github.com/j0shValdez/Phishing-Email-Analysis)**
 
 ## 🌐 Network Security and Monitoring
 
 - **[Detecting & Analyzing Network Traffic with Suricata & Wireshark](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Honeypot and Canary Token Monitoring with Canary](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Cisco Packet Tracer](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 📊 SIEM and Log Analysis
 
