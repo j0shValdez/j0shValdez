@@ -2,7 +2,16 @@
 
 From Helicopter Rescue Swimmer to Cybersecurity Analyst. As a Navy veteran, I am leveraging my experience in high-pressure environments to bring a disciplined, problem-solving mindset to cybersecurity. Through hands-on projects, I focus on threat analysis, risk mitigation, and strengthening security operations. From vulnerability management to threat detection, I’m constantly learning and applying my skills. Check out my work—I’d love to share what I’ve built!
 
+<hr/>
 
+|         | **💻 Tools Utilized**                 |
+|----------------------|----------------------------|
+| **Virtual Machines** | VMware Fusion, VirtualBox  |
+| **Operating Systems** | Kali Linux, Ubuntu, Windows, MacOS           |
+| **Cyber Tools**      | Nessus,  Nmap, Suricata, Wireshark, SIEM (Sentinel),        |
+
+
+<hr/>
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -14,10 +23,15 @@ From Helicopter Rescue Swimmer to Cybersecurity Analyst. As a Navy veteran, I am
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Phishing Email Analysis](https://github.com/j0shValdez/Phishing-Email-Analysis)**
 
-## ⚠️ Vulnerability Management Projects
+## 🌐 Network Security and Monitoring
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Detecting & Analyzing Network Traffic with Suricata & Wireshark](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Honeypot and Canary Token Monitoring with Canary](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 📊 SIEM and Log Analysis
+
+- **[Microsoft Sentinel Setup and Device Log Ingestion](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Honeypot and Canary Token Monitoring with Canary](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 <hr/>
 
