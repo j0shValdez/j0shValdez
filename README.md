@@ -1,6 +1,7 @@
 # <a href="https://www.linkedin.com/in/joshua-valdez-0a7838225/">Joshua Valdez</a>'s Cybersecurity Project Portfolio 🕵️
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+From Helicopter Rescue Swimmer to Cybersecurity Analyst. As a Navy veteran, I am leveraging my experience in high-pressure environments to bring a disciplined, problem-solving mindset to cybersecurity. Through hands-on projects, I focus on threat analysis, risk mitigation, and strengthening security operations. From vulnerability management to threat detection, I’m constantly learning and applying my skills. Check out my work—I’d love to share what I’ve built!
+
 
 
 ## ⚠️ Vulnerability Management Projects
