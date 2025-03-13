@@ -15,7 +15,7 @@ From Helicopter Rescue Swimmer to Cybersecurity Analyst. As a Navy veteran, I am
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Nessus Vulnerability Scans](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Nessus Vulnerability Scans](https://docs.google.com/document/d/1srt9hNC5VrDa_mtjc6PZN42VgMgcYpOT/edit)**
 - **[Kali Linux Setup & Basic Nmap Scans](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
