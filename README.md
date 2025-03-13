@@ -8,7 +8,7 @@ From Helicopter Rescue Swimmer to Cybersecurity Analyst. As a Navy veteran, I am
 |----------------------|----------------------------|
 | **Virtual Machines** | VMware Fusion, VirtualBox  |
 | **Operating Systems** | Kali Linux, Ubuntu, Windows, MacOS           |
-| **Cyber Tools**      | Nessus,  Nmap, Suricata, Wireshark, SIEM (Sentinel),        |
+| **Cyber Tools**      | Nessus,  Nmap, Suricata, Wireshark, Microsoft Azure, SIEM (Sentinel), SQL, Cisco Packet Tracer        |
 
 
 <hr/>
