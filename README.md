@@ -25,9 +25,9 @@ From Helicopter Rescue Swimmer to Cybersecurity Analyst. As a Navy veteran, I am
 
 ## 🌐 Network Security and Monitoring
 
-- **[Detecting & Analyzing Network Traffic with Suricata & Wireshark](https://docs.google.com/document/d/15bZ1Mfmz_QanTrW_1e0h-duRnurirLiA/edit)**
-- **[Honeypot and Canary Token Monitoring with Canary](https://docs.google.com/document/d/1MDT6vGJfDG09EpX7qUeNsjBO1l4dFs23/edit)**
-- **[Cisco Packet Tracer](https://docs.google.com/document/d/1YlmR-E2Rpg6PQunUZQQ6TH7DZ-pGwILt/edit)**
+- **[Detecting & Analyzing Network Traffic with Suricata & Wireshark](https://docs.google.com/document/d/15bZ1Mfmz_QanTrW_1e0h-duRnurirLiA/edit?usp=sharing&ouid=115319670264390990759&rtpof=true&sd=true)**
+- **[Honeypot and Canary Token Monitoring with Canary](https://docs.google.com/document/d/1MDT6vGJfDG09EpX7qUeNsjBO1l4dFs23/edit?usp=sharing&ouid=115319670264390990759&rtpof=true&sd=true)**
+- **[Cisco Packet Tracer](https://docs.google.com/document/d/1YlmR-E2Rpg6PQunUZQQ6TH7DZ-pGwILt/edit?usp=sharing&ouid=115319670264390990759&rtpof=true&sd=true)**
 
 ## 📊 SIEM and Log Analysis
 
