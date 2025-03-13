@@ -16,22 +16,22 @@ From Helicopter Rescue Swimmer to Cybersecurity Analyst. As a Navy veteran, I am
 ## ⚠️ Vulnerability Management Projects
 
 - **[Nessus Vulnerability Scans](https://docs.google.com/document/d/1srt9hNC5VrDa_mtjc6PZN42VgMgcYpOT/edit)**
-- **[Kali Linux Setup & Basic Nmap Scans](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Kali Linux Setup & Basic Nmap Scans](https://docs.google.com/document/d/1PSQ2FoZdAB669A0mWbZqNrj1Y6paNR5m/edit)**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Phishing Email Analysis](https://github.com/j0shValdez/Phishing-Email-Analysis)**
-- **[Threat Intelligence & Threat Hunting](https://github.com/j0shValdez/Phishing-Email-Analysis)**
+- **[Threat Intelligence & Threat Hunting](https://docs.google.com/document/d/1IoiZBV-ClmjSRGRbmkKzyGQEUuffZR4v/edit)**
 
 ## 🌐 Network Security and Monitoring
 
-- **[Detecting & Analyzing Network Traffic with Suricata & Wireshark](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Honeypot and Canary Token Monitoring with Canary](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[Cisco Packet Tracer](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Detecting & Analyzing Network Traffic with Suricata & Wireshark](https://docs.google.com/document/d/15bZ1Mfmz_QanTrW_1e0h-duRnurirLiA/edit)**
+- **[Honeypot and Canary Token Monitoring with Canary](https://docs.google.com/document/d/1MDT6vGJfDG09EpX7qUeNsjBO1l4dFs23/edit)**
+- **[Cisco Packet Tracer](https://docs.google.com/document/d/1YlmR-E2Rpg6PQunUZQQ6TH7DZ-pGwILt/edit)**
 
 ## 📊 SIEM and Log Analysis
 
-- **[Microsoft Sentinel Setup and Device Log Ingestion](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Microsoft Sentinel Setup and Device Log Ingestion](https://docs.google.com/document/d/11WRHF9-UaAFIDd7Vyjbgo-X6pBZY751b/edit?usp=sharing&ouid=115319670264390990759&rtpof=true&sd=true)**
 
 <hr/>
 
