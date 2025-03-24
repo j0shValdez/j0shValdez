@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/joshua-valdez-0a7838225/">Joshua Valdez</a>'s Cybersecurity Project Portfolio 🕵️
 
-From Helicopter Crew Chief to Cybersecurity Analyst. As a Navy veteran, I am leveraging my experience in high-pressure environment and operational risk management to bring a disciplined, problem-solving mindset to cybersecurity. Through hands-on projects, I focus on threat analysis, risk mitigation, and strengthening security operations. From vulnerability management to threat detection, I’m constantly learning and applying my skills. Check out my work—I’d love to share what I’ve built!
+From Helicopter Crew Chief to Cybersecurity Analyst. As a Navy veteran, I am leveraging my 8+ years of experience in high-pressure environment and operational risk management to bring a disciplined, problem-solving mindset to cybersecurity. Through hands-on projects, I focus on threat analysis, risk mitigation, and strengthening security operations. From vulnerability management to threat detection, I’m constantly learning and applying my skills. Check out my work—I’d love to share what I’ve built!
 
 <hr/>
 
