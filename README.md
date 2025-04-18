@@ -8,7 +8,7 @@ From Navy Helicopter Crew Chief to Cybersecurity Analyst. As a Navy veteran, I a
 |----------------------|----------------------------|
 | **Virtual Machines** | VMware Fusion, VirtualBox, Microsoft Azure  |
 | **Operating Systems** | Kali Linux, Ubuntu, Windows, MacOS           |
-| **Cyber Tools**      | Tenable (Nessus), Microsoft Azure, SIEM (Sentinel), SQL, Microsoft Defender for Endpoint, Nmap, Suricata, Wireshark, Cisco Packet Tracer        |
+| **Cyber Tools**      | Tenable (Nessus), Microsoft Azure, SIEM (Sentinel), Bash, PowerShell, SQL, Microsoft Defender for Endpoint, Nmap, Suricata, Wireshark, Cisco Packet Tracer        |
 
 
 <hr/>
