@@ -24,7 +24,7 @@ From Navy Helicopter Crew Chief to Cybersecurity Analyst. As a Navy veteran, I a
 ## 🚨 Threat Hunting and Security Operations
 
 - **Threat Hunting Scinarios:**
-  - **[Devices Exposed to Internet and Brute Force Attack](https://github.com/j0shValdez/Devices-Exposed-to-Internet-Brute-Froce-attack)**
+  - **[Device Exposed to Internet and Brute Force Attacked](https://github.com/j0shValdez/Devices-Exposed-to-Internet-Brute-Froce-attack)**
 - **[Phishing Email Analysis](https://github.com/j0shValdez/Phishing-Email-Analysis)**
 - **[Threat Intelligence & Threat Hunting](https://docs.google.com/document/d/1IoiZBV-ClmjSRGRbmkKzyGQEUuffZR4v/edit)**
 
