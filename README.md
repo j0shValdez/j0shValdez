@@ -16,10 +16,10 @@ From Navy Helicopter Crew Chief to Cybersecurity Analyst. As a Navy veteran, I a
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/j0shValdez/Vulnerability-management-program)**
-- **[Security Technical Information Guide (STIG) Implementation](https://github.com/j0shValdez/STIG_Remediations)**
+- **[Security Technical Information Guide (STIG) Implementation](https://github.com/j0shValdez/STIG_Remediations):**
   - **[Windows (PowerShell)](https://github.com/j0shValdez/STIG_Remediations/tree/main/Windows)**
-- **[Nessus Vulnerability Scans](https://docs.google.com/document/d/1srt9hNC5VrDa_mtjc6PZN42VgMgcYpOT/edit)**
-- **[Kali Linux Setup & Basic Nmap Scans](https://docs.google.com/document/d/1PSQ2FoZdAB669A0mWbZqNrj1Y6paNR5m/edit)**
+<!-- **[Nessus Vulnerability Scans](https://docs.google.com/document/d/1srt9hNC5VrDa_mtjc6PZN42VgMgcYpOT/edit)** -->
+<!--  **[Kali Linux Setup & Basic Nmap Scans](https://docs.google.com/document/d/1PSQ2FoZdAB669A0mWbZqNrj1Y6paNR5m/edit)** -->
 
 ## 🚨 Threat Hunting and Security Operations
 
