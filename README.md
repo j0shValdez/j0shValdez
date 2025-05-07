@@ -21,7 +21,7 @@ From Navy Helicopter Crew Chief to Cybersecurity Analyst. As a Navy veteran, I a
 <!-- **[Nessus Vulnerability Scans](https://docs.google.com/document/d/1srt9hNC5VrDa_mtjc6PZN42VgMgcYpOT/edit)** -->
 <!--  **[Kali Linux Setup & Basic Nmap Scans](https://docs.google.com/document/d/1PSQ2FoZdAB669A0mWbZqNrj1Y6paNR5m/edit)** -->
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations Projects
 
 - **Threat Hunting Scenario:**
     - **[Unauthorized TOR Browswer Usage](https://github.com/j0shValdez/threat-hunting-scenario-TOR-use)**
@@ -29,7 +29,7 @@ From Navy Helicopter Crew Chief to Cybersecurity Analyst. As a Navy veteran, I a
 - **[Phishing Email Analysis](https://github.com/j0shValdez/Phishing-Email-Analysis)**
 <!-- **[Threat Intelligence & Threat Hunting](https://docs.google.com/document/d/1IoiZBV-ClmjSRGRbmkKzyGQEUuffZR4v/edit)** -->
 
-## 🌐 Network Security and Monitoring
+## 🌐 Network Security and Monitoring Projects
 
 - **[Detecting & Analyzing Network Traffic with Suricata & Wireshark](https://docs.google.com/document/d/15bZ1Mfmz_QanTrW_1e0h-duRnurirLiA/edit?usp=sharing&ouid=115319670264390990759&rtpof=true&sd=true)**
 - **[Honeypot and Canary Token Monitoring with Canary](https://docs.google.com/document/d/1MDT6vGJfDG09EpX7qUeNsjBO1l4dFs23/edit?usp=sharing&ouid=115319670264390990759&rtpof=true&sd=true)**
