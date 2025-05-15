@@ -23,7 +23,7 @@ From Navy Helicopter Crew Chief to Cybersecurity Analyst. As a Navy veteran, I a
 
 ## 🚨 Threat Hunting and Security Operations Projects
 
-- **Threat Hunting Scenario:**
+- **Threat Hunting Scenarios:**
     - **[Unauthorized TOR Browswer Usage](https://github.com/j0shValdez/threat-hunting-scenario-TOR-use)**
     - **[Device Exposed to Internet and Brute Force Attacked](https://github.com/j0shValdez/Devices-Exposed-to-Internet-Brute-Froce-attack)**
 - **[Phishing Email Analysis](https://github.com/j0shValdez/Phishing-Email-Analysis)**
